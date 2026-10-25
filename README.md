@@ -1,4 +1,4 @@
-# this is 2 java programs
+# 2 simple java programs
 
 Hello -> Java program that takes an integer array, counts the Fibonacci numbers in it, and displays those Fibonacci numbers in a separate array.
 
